@@ -1,6 +1,6 @@
 This project explores portfolio optimization using tools from quantitative finance and convex optimization. It covers:
 
-Data fetching using yfinance or CSVs
+Data fetching
 
 Return and volatility computation
 
